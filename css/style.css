@@ -44,7 +44,7 @@ header img{width: 200px;vertical-align: baseline;}
 	header{height:60px;background-size:60px;padding:0;position: fixed;top: 0;z-index: 99;}
     header img{width: 40%;vertical-align: middle;}
 	
-    #menuframe{position: fixed;width:100%;top: 65px;}
+    #menuframe{position: fixed;width:100%;top: 65px;height:60px;}
 	
     @media screen and (min-width: 205px) {
     #menu{position: fixed;width:100%;top:0;margin: 0;padding: 0;right: auto;}
